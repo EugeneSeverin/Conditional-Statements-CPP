@@ -19,4 +19,6 @@ int main()
         cout << "Not Young" << endl;
     }
 
+    return 0;
+
 }

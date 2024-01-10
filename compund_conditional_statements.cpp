@@ -17,10 +17,12 @@ int main()
     {
         cout << "Working" << endl;
     }
-    
+
     else
     {
         cout << "Leisure" << endl;
     }
+
+    return 0;
 
 }
